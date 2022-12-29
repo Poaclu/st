@@ -1,2 +1,2 @@
 - [ ] Add alpha (backgroud blu)
-- [ ] add scroling 
+- [x] add scroling : using tmux for scroling -> see dotfiles for usage
