@@ -1,2 +1,3 @@
 - [ ] Add alpha (backgroud blu)
 - [x] add scroling : using tmux for scroling -> see dotfiles for usage
+- [ ] delete font2 (not being used)
